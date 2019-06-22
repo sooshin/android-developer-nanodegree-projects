@@ -63,9 +63,7 @@ Created a **Joke Telling App** with multiple flavors that uses multiple librarie
 
 <img width="734" alt="build-it-bigger" src="https://user-images.githubusercontent.com/33213229/59961562-6f422080-9514-11e9-9fc3-76d961e1160d.png">
 
-![joke_01_main](https://user-images.githubusercontent.com/33213229/46856482-8850e880-ce41-11e8-8a58-ffe6b9122f0c.png)
-![joke_02_ad](https://user-images.githubusercontent.com/33213229/46856488-8b4bd900-ce41-11e8-92d7-3ae17dcb3da8.png)
-![joke_05_family](https://user-images.githubusercontent.com/33213229/46856496-90108d00-ce41-11e8-90ca-963a4e585549.png)
+![joke_01_main](https://user-images.githubusercontent.com/33213229/46856482-8850e880-ce41-11e8-8a58-ffe6b9122f0c.png)![joke_02_ad](https://user-images.githubusercontent.com/33213229/46856488-8b4bd900-ce41-11e8-92d7-3ae17dcb3da8.png)![joke_05_family](https://user-images.githubusercontent.com/33213229/46856496-90108d00-ce41-11e8-90ca-963a4e585549.png)
 
 ## Make Your App Material - [XYZ Reader](https://github.com/sooshin/android-xyz-reader)
 
