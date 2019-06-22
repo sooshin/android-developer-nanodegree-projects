@@ -1,4 +1,5 @@
-# Android Developer Nanodegree Projects
+# Udacity Android Developer Nanodegree Projects
+Udacity built this Nanodegree program in partnership with Google for students with intermediate programming skills who want to become professional Android developers.
 
 ## Capstone Project - [Candy Pod](https://github.com/sooshin/android-candy-pod)
 <image align="right" src="https://github.com/sooshin/android-candy-pod/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
@@ -16,6 +17,7 @@
 ![1_main](https://user-images.githubusercontent.com/33213229/49943703-f42bfc00-ff2b-11e8-8afc-a583d06dbae3.png)![4_subscribe](https://user-images.githubusercontent.com/33213229/49943713-f8f0b000-ff2b-11e8-9c21-b7d25ea8af62.png)![5_play](https://user-images.githubusercontent.com/33213229/49943715-fa21dd00-ff2b-11e8-88b5-7524ae90a3cd.png)
 
 ## [Popular Movies, Stage 1 & Stage 2](https://github.com/sooshin/android-popular-movies-app)
+[<img align="right" src="https://github.com/sooshin/android-developer-nanodegree-projects/blob/master/ic_launcher.png"/>](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
 
 **Popular Movies** app gives you information about movies from the TMDb. See what movies are the most popular and high rated. You can also discover Now Playing or Upcoming movies. Popular Movies app will help you decide what to watch.
 
@@ -26,7 +28,6 @@
 [View Soure Code](https://github.com/sooshin/android-popular-movies-app) | [View on YouTube](https://youtu.be/1eFfdmHGKMw) | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
 
 [![google-play-badge](https://user-images.githubusercontent.com/33213229/59287668-13be9a00-8cad-11e9-9a13-b62a4f562cfd.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
-[![ic_launcher](https://user-images.githubusercontent.com/33213229/59288297-72d0de80-8cae-11e9-9c58-25828f6e6ae6.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
 
 ![popular-movies-main](https://user-images.githubusercontent.com/33213229/49940286-757e9100-ff22-11e8-897a-45ba561df250.png)![popular-movies-detail](https://user-images.githubusercontent.com/33213229/49940281-71527380-ff22-11e8-935b-7e2d4138d979.png)![popular-movies-info](https://user-images.githubusercontent.com/33213229/49940285-73b4cd80-ff22-11e8-9ca1-b379e06b90bc.png)
 
@@ -92,3 +93,21 @@ Building a layout and populating its fields from data received as JSON is a comm
 * Populated all fields in the layout accordingly
 
 [View Source Code](https://github.com/sooshin/android-sandwich-club-app)
+
+## License
+Apache, see the [LICENSE](LICENSE) file.
+```
+Copyright 2019 Soojeong Shin
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
