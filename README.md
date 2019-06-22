@@ -11,7 +11,7 @@ Udacity built this Nanodegree program in partnership with Google for students wi
 * Used transitions and animation effectively
 * Added free and paid flavors
 
-[View Soure Code](https://github.com/sooshin/android-candy-pod) | [View on YouTube](https://youtu.be/EuuCu4429q4)
+[View Source Code](https://github.com/sooshin/android-candy-pod) | [View on YouTube](https://youtu.be/EuuCu4429q4)
 
 
 ![1_main](https://user-images.githubusercontent.com/33213229/49943703-f42bfc00-ff2b-11e8-8afc-a583d06dbae3.png)![4_subscribe](https://user-images.githubusercontent.com/33213229/49943713-f8f0b000-ff2b-11e8-9c21-b7d25ea8af62.png)![5_play](https://user-images.githubusercontent.com/33213229/49943715-fa21dd00-ff2b-11e8-88b5-7524ae90a3cd.png)
@@ -25,7 +25,7 @@ Udacity built this Nanodegree program in partnership with Google for students wi
 * Integrated the Paging library, LiveData, ViewModel, DataBinding, Room, MVVM architecture and Repository pattern
 * Created a local database using Room that allows users to store the information of their favorite movies
 
-[View Soure Code](https://github.com/sooshin/android-popular-movies-app) | [View on YouTube](https://youtu.be/1eFfdmHGKMw) | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
+[View Source Code](https://github.com/sooshin/android-popular-movies-app) | [View on YouTube](https://youtu.be/1eFfdmHGKMw) | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
 
 [![google-play-badge](https://user-images.githubusercontent.com/33213229/59287668-13be9a00-8cad-11e9-9a13-b62a4f562cfd.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
 
